@@ -8,9 +8,10 @@ You can also host the JSON in a Github Gist, which might make it easer for team 
 
 ## Getting Started
 
-1. Close this repo
+1. Clone this repo
 2. Edit index.html with the correct name of your JSON file (or...)
 3. Start editing the demo.json file with your own StoryMap material
+4. In the project settings, publish to Github Pages
 
 ## Examples
 
