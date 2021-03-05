@@ -1,0 +1,65 @@
+{
+	"storymap": {
+	  "attribution": "",
+	  "call_to_action": false,
+	  "zoomify": false,
+	  "slides": [
+		{
+		  "date": "",
+		  "media": {
+			"url": "https://images.pexels.com/photos/343460/pexels-photo-343460.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"caption": "Silhouette of Transmission Tower ",
+			"credit": ""
+		  },
+		  "type": "overview",
+		  "location": {
+			"line": true
+		  },
+		  "text": {
+			"headline": "The World Beyond Parable of the Sower",
+			"text": "The second half of Parable of the Sower is a road novel, recounting Lauren's journey north across a hellish dystopian landscape. While we get glimpses of the rest of the United States in 2027 (for example, the fictional town of Olivar), we have only a vague sense of how different parts of the country are falling apart. What's happening in the Northeast? What about the Southeast? The American Southwest? The Midwest, the prairie states, the Rockies?<p>This activity asks you to imagine a single location—a city, town, or rural area—in the United States and describe a newsworthy event there that encapsulates the broader experience of that place. Similar to the 'missing' journal activity, this activity asks you to enrich the world of Parable of the Sower by imagining events not depicted in the novel but which fit that world."
+		  }
+		},
+		{
+		  "date": "",
+		  "media": {
+			"url": "https://images.pexels.com/photos/4636148/pexels-photo-4636148.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+			"caption": "Outside the walls, a riot ensues",
+			"credit": ""
+		  },
+		  "location": {
+			"lat": 34.2694474,
+			"line": true,
+			"lon": -118.78148199999998,
+			"zoom": 18
+		  },
+		  "text": {
+			"headline": "OUTSIDE THE WALLS",
+			"text": "Violence.<br><br>Chaos."
+		  }
+		},
+		{
+		  "date": "",
+		  "media": {
+			"url": "https://images.pexels.com/photos/946435/pexels-photo-946435.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+			"caption": "",
+			"credit": ""
+		  },
+		  "location": {
+			"lat": 36.9741,
+			"line": true,
+			"lon": -122.0308,
+			"zoom": 15
+		  },
+		  "text": {
+			"headline": "everything is broken",
+			"text": "Nothing works.\n\nEverything is broken."
+		  }
+		}
+	  ],
+	  "map_type": "stamen:watercolor",
+	  "call_to_action_text": "",
+	  "map_as_image": false,
+	  "map_subdomains": ""
+	}
+  }
