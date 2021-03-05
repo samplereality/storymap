@@ -6,5 +6,13 @@ This is a proof-of-concept for collaborative creation of StoryMaps, hosted by Gi
 
 You can also host the JSON in a Github Gist, which might make it easer for team members to edit. Because JSON is very fussy, you should probably use [JSONLint](https://jsonlint.com/) or [JSON Blob](https://jsonblob.com/1360ce72-7dc6-11eb-b747-2bcd29c52918) to verify the validity of the formatting.
 
+## Getting Started
+
+1. Close this repo
+2. Edit index.html with the correct name of your JSON file (or...)
+3. Start editing the demo.json file with your own StoryMap material
+
+## Examples
+
 * [Demo StoryMap](https://samplereality.github.io/storymap/)
 * [Demo JSON](https://gist.github.com/samplereality/4b24d467450631c59c65b72659408b14) in a Gist
