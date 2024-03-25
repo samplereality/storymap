@@ -59,6 +59,7 @@
 	  ],
 	  "map_type": "stamen:watercolor",
 	  "call_to_action_text": "",
+	  "calculate_zoom": true,
 	  "map_as_image": false,
 	  "map_subdomains": ""
 	}
